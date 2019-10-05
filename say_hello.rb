@@ -1,4 +1,4 @@
 def say_hello(name)
   puts "Hello #{name}!"# B
 end
-say_hello(Grace)
+puts say_hello(Grace)
